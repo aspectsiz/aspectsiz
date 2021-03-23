@@ -1,7 +1,7 @@
 <h4>Just a normal man ,normal life.</h4>
 <ul>
         <li>Software Developer and a junior Graphic Designer</li>
-        <li>work on a Lamu Games</li>
+        <li>work on a Mars</li>
 </ul>  
 <h2> Communication </h2>
  <p>
