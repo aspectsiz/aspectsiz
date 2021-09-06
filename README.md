@@ -13,5 +13,5 @@
 <img src="https://user-images.githubusercontent.com/25087769/97784839-5fc7f280-1bb2-11eb-8b1f-c17fc54fb428.png"/>
 </a>
 <a href="https://www.linkedin.com/in/ömer-taha-karakelle-608b71202/">
-<img src="https://www.seekpng.com/png/full/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"/>
+<img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png"/>
 </a>
